@@ -54,10 +54,42 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
    **Run the experiment**
       ![image](https://user-images.githubusercontent.com/38326274/137476624-edc1484a-10bb-477c-819f-e21cb0231795.png)
 
+   **Run Complete** [The best model is the voting ensemble model with weighted AUC as ~0.948]
+      ![image](https://user-images.githubusercontent.com/38326274/137478957-59add80a-7152-4736-8ffb-f593e8c4dc52.png)
+
+   **Best model**
+      
+      - *Model Name and type*
+      ![image](https://user-images.githubusercontent.com/38326274/137479333-64d47c75-680f-45bd-9f6a-e321df796eb1.png)
+      
+      - *Metric group 1 for best model*
+      ![image](https://user-images.githubusercontent.com/38326274/137479437-fd1f4bec-6d26-4f9c-a049-0777a9103dbc.png)
+
+      - *Metric group 2 for best model*
+      ![image](https://user-images.githubusercontent.com/38326274/137479654-70a7079c-3608-4fd7-9c6b-b869202fafb5.png)
+
+      - *Metric group 3 for best model*
+      ![image](https://user-images.githubusercontent.com/38326274/137479754-6f6764b2-f18c-4b5d-b3be-8a2c56bc9022.png)
+
 
 ### Step 3: Deploy the best model
 
+    - **Selecting the best model**
+    ![image](https://user-images.githubusercontent.com/38326274/137480275-5bb97e78-f74a-4b31-9d9d-28aee41c9082.png)
 
+    - **Clicking on Deploy** [Deployed on Azure contianer Instance withauthentication ON]
+    ![image](https://user-images.githubusercontent.com/38326274/137480332-120e33b1-570f-4c0e-9d81-43dfcab76453.png)
+
+    - **Enter the relevant parameters and click on deploy**
+    ![image](https://user-images.githubusercontent.com/38326274/137480446-685f61b8-fe95-42fd-960d-ab31fc5f9a42.png)
+
+    - **Deployment successful**
+    ![image](https://user-images.githubusercontent.com/38326274/137482366-f3304e35-0aa0-4de8-ba38-6e184c4f9e59.png)
+
+    - **Deployment State**
+    ![image](https://user-images.githubusercontent.com/38326274/137482512-ea49f047-3599-4907-8990-9b653546aae0.png)
+
+    
 ### Step 4: Enable logging
 
 
