@@ -11,7 +11,7 @@
        * [Step 5: Swagger Documentation](#swagger-documentation)
        * [Step 6: Consume model endpoints](#consume-model-endpoints)
        * [Step 7: Create and publish a pipeline](#create-and-publish-a-pipeline)
-   * [Screen Recordin](#screen-recording)
+   * [Screen Recording](#screen-recording)
    * [Future work](#Future-work)
    * [Proof of Cluster Clean Up](#Proof-of-Cluster-Clean-Up)
 
