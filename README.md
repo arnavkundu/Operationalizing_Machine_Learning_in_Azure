@@ -4,13 +4,13 @@
    * [Overview](#overview)
    * [Architectural Diagram](#architectural-diagram)
    * [Key Steps](#key-steps)
-       * [Authentication](#authentication)
-       * [Automated ML Experiment](#automated-ml-experiment)
-       * [Deploy the best model](#deploy-the-best-model)
-       * [Enable logging](#enable-logging)
-       * [Swagger Documentation](#swagger-documentation)
-       * [Consume model endpoints](#consume-model-endpoints)
-       * [Create and publish a pipeline](#create-and-publish-a-pipeline)
+       * [Step 1: Authentication](#authentication)
+       * [Step 2: Automated ML Experiment](#automated-ml-experiment)
+       * [Step 3: Deploy the best model](#deploy-the-best-model)
+       * [Step 4: Enable logging](#enable-logging)
+       * [Step 5: Swagger Documentation](#swagger-documentation)
+       * [Step 6: Consume model endpoints](#consume-model-endpoints)
+       * [Step 7: Create and publish a pipeline](#create-and-publish-a-pipeline)
    * [Screen Recordin](#screen-recording)
    * [Future work](#Future-work)
    * [Proof of Cluster Clean Up](#Proof-of-Cluster-Clean-Up)
@@ -30,24 +30,24 @@ This project enables operationalizing a ML model in Azure as a part of Udacity N
 ### Authentication
 The udacity lab was used, hence this step was skipped as it was mentioned that it will NOT affect other steps in the project and we will be using the workspace provided by Udacity.
 
-### Automated ML Experiment
+### Step 1: Automated ML Experiment
 
 
-### Deploy the best model
+### Step 2: Deploy the best model
 
 
-### Enable logging
+### Step 3: Enable logging
 
 
-### Swagger Documentation
+### Step 4: Swagger Documentation
 
 
-### Consume model endpoints
+### Step 5: Consume model endpoints
 
 
 #### (Optional) Benchmark
 
-### Create and publish a pipeline
+### Step 6: Create and publish a pipeline
 
 
 ## Screen Recording
