@@ -16,9 +16,13 @@
    * [Proof of Cluster Clean Up](#Proof-of-Cluster-Clean-Up)
 
 ## Overview
-This project enables operationalizing a ML model in Azure as a part of Udacity Nanodegree course. In the previous project we learnt about optimizing the ML model in Azure
+This project enables operationalizing a ML model in Azure as a part of Udacity Nanodegree course. In the previous project we learnt about optimizing the ML model in Azure. the deployement of the model was done using a service in Azure. In this project the model was trained using AutoML feature in Azure that allows running of a significant number of models and then allowing the user to chose the model that needs to be deployed (obviously the best model!). The model is consumed through an endpoint using Swagger.
 
 ## Architectural Diagram
+
+![image](https://user-images.githubusercontent.com/38326274/137786806-df9d1c40-4ab4-4a4b-8795-10fe72558eed.png)
+
+
 ## Key Steps
 1. **Authentication** : Skipping this step as it will NOT affect other steps in the project and we will be using the workspace provided by Udacity.
 2. **Automated ML Experiment** : In this step, security is enabled and authentication is completed. In this step, we create an experiment using Automated ML, configure a compute cluster, and use that cluster to run the experiment
