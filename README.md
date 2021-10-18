@@ -88,13 +88,31 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
 
   **Deployment State**
     ![image](https://user-images.githubusercontent.com/38326274/137482512-ea49f047-3599-4907-8990-9b653546aae0.png)
+    ![image](https://user-images.githubusercontent.com/38326274/137482840-0d58d00f-5d64-433a-8700-6065f63f0ada.png)
+
 
     
 ### Step 4: Enable logging
 
+  **Run the logs.py file in Git bash**
+  ![image](https://user-images.githubusercontent.com/38326274/137484220-abe01208-580a-48e8-b7a1-37b850cc46ed.png)
+
+  **Once we run the logs.py we enable the Application insight and get the URL**
+  ![image](https://user-images.githubusercontent.com/38326274/137485366-ddc6d99e-ddbb-46ed-9ef5-dd1bfea63d85.png)
+
 
 ### Step 5: Swagger Documentation
 
+  **Running the swagger.sh"
+  ![image](https://user-images.githubusercontent.com/38326274/137497124-ad63c187-027d-43d6-a936-8f5b18b2d8a8.png)
+  
+  **opening localhost:9001"
+  ![image](https://user-images.githubusercontent.com/38326274/137497240-1682eaf7-6cbe-4494-a4ee-c01177c4f957.png)
+
+  **Pointing to Swagger JSON**
+  ![image](https://user-images.githubusercontent.com/38326274/137497742-b5e870e3-7b00-4dcd-afa7-b6406812ba69.png)
+
+  **
 
 ### Step 6: Consume model endpoints
 
