@@ -120,9 +120,30 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
 
 
 ### Step 7: Create and publish a pipeline
-   For this we will use the 
+   For this we will use the Jupyter file and run the cells to complete this step.
+   
+   Pipeline section of ML Azure Studio
+   ![image](https://user-images.githubusercontent.com/38326274/137767728-6711e46f-87a9-4c54-a80e-84b526af3af5.png)
+   
+   Pipeline Endpoint
+   ![image](https://user-images.githubusercontent.com/38326274/137767834-5b5b4c08-a699-4d7f-8d62-fa94c8c9257c.png)
 
+   Published Pipeline Overview with ACTIVE STATUS
+   ![image](https://user-images.githubusercontent.com/38326274/137768016-491aa14d-d5d0-4b48-acc1-06e3007d82b6.png)
+
+   Run details Snippets
+   ![image](https://user-images.githubusercontent.com/38326274/137768239-f66ba926-c253-4d7c-97fe-ab890d457056.png)
+
+
+   
 ## Screen Recording
 Skipped for a reason.
 
 ## Future work
+  In future experiments I would like to explore the following ideas to enable better prediction on the dataset so that we improve on the AUC as well as the accuracy in a holistic way
+
+   - Using techniques like SMOTE to oversample the data making sure that we don't bias the data: Using SMOTE, we will be generating synthetic samples for the minority class and using the k-NN based oversampling, we can create some synthetic data points in the close vicinity of other data points so that we attain a class balance.
+   - Using undersampling techniques like NearMiss to reduce the imbalance. This helps in improving the model by removing some sample points from the majority class so as to increase the gaps between 2 classes. Near-neighbour method also takes care of lesser information loss during undersampling.
+   - Understanding other metrics to look into the aspect of evaluating the model like Precision/Recall/F1 score and also understand if precision is of more importance or recall (of course getting in touch with business stakeholders to know their focus area) and try to focus our model's development in that direction. This will enable us to be closer to the business case solving hence improving adaptibility by business.
+
+  Another point which I saw during the run was feature engineering, and would like to try out the feature in AzureML as a future Work scope.
