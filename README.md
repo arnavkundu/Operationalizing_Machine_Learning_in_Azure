@@ -111,18 +111,18 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
 
   **Pointing to Swagger JSON**
   ![image](https://user-images.githubusercontent.com/38326274/137497742-b5e870e3-7b00-4dcd-afa7-b6406812ba69.png)
-
   **
 
 ### Step 6: Consume model endpoints
+  Finally we will test the model endpoint by running the endpoints.py file. The scoring URI and the key needs to be the one which is mentioned in the detail page of the endpoint page in Azure. Once it is run it will look something like:
+  
+  ![image](https://user-images.githubusercontent.com/38326274/137760452-8fbcc021-0118-46c7-99c9-41da23f78dfa.png)
 
-
-#### (Optional) Benchmark
 
 ### Step 7: Create and publish a pipeline
-
+   For this we will use the 
 
 ## Screen Recording
-[Youtube Link]()
+Skipped for a reason.
 
 ## Future work
