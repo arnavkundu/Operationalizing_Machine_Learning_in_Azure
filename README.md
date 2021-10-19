@@ -126,6 +126,9 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
 ### Step 7: Create and publish a pipeline
    For this we will use the Jupyter file and run the cells to complete this step.
    
+   ML studio showing the scheduled run
+   ![image](https://user-images.githubusercontent.com/38326274/137980409-1210ec35-e258-4952-8789-7abc81d1c44a.png)
+
    Pipeline section of ML Azure Studio
    ![image](https://user-images.githubusercontent.com/38326274/137767728-6711e46f-87a9-4c54-a80e-84b526af3af5.png)
    
