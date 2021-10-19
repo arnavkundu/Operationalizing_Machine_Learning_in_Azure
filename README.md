@@ -144,7 +144,7 @@ The udacity lab was used, hence this step was skipped as it was mentioned that i
 
    
 ## Screen Recording
-![Link to Screencast](https://github.com/arnavkundu/Operationalizing_Machine_Learning_in_Azure/blob/main/Screencast/ScreenCast.mp4)
+![Link to Screencast](https://vimeo.com/636612513)
 
 ## Future work
   In future experiments I would like to explore the following ideas to enable better prediction on the dataset so that we improve on the AUC as well as the accuracy in a holistic way
