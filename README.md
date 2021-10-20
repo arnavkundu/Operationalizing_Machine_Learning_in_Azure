@@ -16,7 +16,7 @@
    * [Proof of Cluster Clean Up](#Proof-of-Cluster-Clean-Up)
 
 ## Overview
-This project enables operationalizing a ML model in Azure as a part of Udacity Nanodegree course. In the previous project we learnt about optimizing the ML model in Azure. the deployement of the model was done using a service in Azure. In this project the model was trained using AutoML feature in Azure that allows running of a significant number of models and then allowing the user to chose the model that needs to be deployed (obviously the best model!). The model is consumed through an endpoint using Swagger.
+This project enables operationalizing a ML model in Azure as a part of Udacity Nanodegree course. To introduce how the dataset looks like, it is a marketing dataset that includes various attributes of a customer and a target variable that mentions if that customer is willing to subscribe to a term deosit. This dataset was provided to us in the starter_files. Since the target variable is a binary (yes/no) we will be performing a binary classification to the dataset in order to predict the willingness of subscription. In the previous project we learnt about optimizing the ML model in Azure. The deployement of the model was done using a service in Azure. In this project the model was trained using AutoML feature in Azure that allows running of a significant number of models and then allowing the user to chose the model that needs to be deployed (obviously the best model!). The model is consumed through an endpoint using Swagger.
 
 ## Architectural Diagram
 
